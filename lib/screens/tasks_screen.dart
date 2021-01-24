@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 // COMPONENTS
-import 'package:todoey/components/header_component.dart';
-import 'package:todoey/components/tasks_list_component.dart';
+import 'package:todoey/components/header.dart';
+import 'package:todoey/components/tasks_list.dart';
 
 // CONSTANTS
 import 'package:todoey/constants.dart';

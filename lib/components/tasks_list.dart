@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // COMPONENTS
-import 'package:todoey/components/task_tile_component.dart';
+import 'package:todoey/components/task_tile.dart';
 
 class TasksList extends StatelessWidget {
   @override
